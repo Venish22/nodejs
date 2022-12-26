@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'newven'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37D879DE0A1A4DC6A398BA7A76E76797 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58567645E22F48CCB3BBB35E1E01F279 }}
           package: .
